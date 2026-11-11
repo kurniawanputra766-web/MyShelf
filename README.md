@@ -1,2 +1,0 @@
-# MyShelf
-Creativity corner
