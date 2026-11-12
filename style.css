@@ -138,8 +138,8 @@ header h1 {
 
 @media (min-width: 768px) {
   .konten{
-  margin-left: 50px;
-  margin-right: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
   align-items: center;
   }
 }
@@ -282,4 +282,10 @@ html {
 
 #exploring {
   display: flow-root;
+}
+
+.highlight{
+  color: #ffba08;
+  margin-right: 210px;
+  text-shadow: none;
 }
